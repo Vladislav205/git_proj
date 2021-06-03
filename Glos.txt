@@ -1,2 +1,9 @@
 commit repository 
 branch
+
+git init - создание пустого репозитория
+git status 
+git add [name] or git add.
+git config --global user.name "kistrin_vv"
+git config --global user.email "kistrin20005@gmail.com"
+git config --list
